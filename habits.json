@@ -1,0 +1,39 @@
+{
+  "Meditation": [
+    {
+      "date": "2025-11-27",
+      "duration": {
+        "formatted": "00:00:07",
+        "totalSeconds": 7,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 7
+      }
+    },
+    {
+      "date": "2025-11-27",
+      "duration": {
+        "formatted": "00:00:02",
+        "totalSeconds": 2,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2
+      }
+    }
+  ],
+  "Exercise": [],
+  "exercise": [],
+  "Drink water.": [
+    {
+      "date": "2025-11-27",
+      "duration": {
+        "formatted": "00:00:05",
+        "totalSeconds": 5,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 5
+      }
+    }
+  ],
+  "Drink Milk.": []
+}
